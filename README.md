@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="IMG-20241103-WA0016 1.jpg" width="180" style="border-radius:50%" />
+</p>
 
 <h1 align="center">👋 Hi, I'm Manudeep</h1>
 
@@ -6,7 +9,7 @@
 </div>
 
 <br/>
-
+<br/>
 <div align="center">
   
   <a href="https://www.linkedin.com/in/manudeep07/">
@@ -24,9 +27,9 @@
 <h3 align="center">About me</h3> 
 
 <p>
-🔹 Full-Stack Developer (MERN + Java) <br/>
-🔹 Love building scalable backend APIs <br/>
-🔹 Exploring DevOps & System Design
+🔹 Full-Stack Developer <br/>
+🔹 Coding Enthusiast<br/>
+
 </p>
 
 
@@ -39,7 +42,7 @@
 <tr>
 <td>
 
-<h5 align="left">Programming<h5/>
+<h5>Programming<h5/>
 Java • JavaScript • C • C++ • PHP
 
 </td>
@@ -51,7 +54,7 @@ React • Node.js • Express • Tailwind • Bootstrap
 </td>
 <td>
 
-<h6>Database</h6>
+<h5>Database</h5>
 MongoDB • MySQL
 
 </td>

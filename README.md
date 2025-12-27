@@ -28,7 +28,7 @@
 
 </div>
 
-### 🛠️ Tech Stack
+ Tech Stack
 
 <div align="center">
 
@@ -52,7 +52,7 @@
 
 </div>
 
-### 🚀 Featured Projects
+ Featured Projects
 
 <div align="center">
 
@@ -61,20 +61,4 @@
 | LMS Platform | Modular backend with real-time updates and payment integration | MERN + Stripe | [View Repo](https://github.com/manudeep07/LMS) |
 | Collaborative Online Notepad | Real-time collaborative editing | PHP + WebSockets | [View Repo](https://github.com/manudeep07/Collaborative-online-notepad) |
 
-</div>
-
-### 📊 GitHub Activity
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=manudeep07&show_icons=true&theme=radical" alt="GitHub Stats" />
-  
-  <br/><br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manudeep07&layout=compact&theme=radical" alt="Top Languages" />
-
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=manudeep07&color=brightgreen" alt="Profile views" />
 </div>
